@@ -1,0 +1,4 @@
+com\mycompany\Requests\resources\JakartaEE8Resource.class
+com\mycompany\Requests\JakartaRestConfiguration.class
+req\facade\AbstractFacade.class
+req\entities\Request.class
